@@ -1,0 +1,20 @@
+<!DOCTYPE cuento SYSTEM "DTD_lll.dtd">
+<cuento cod="B02" título="El Susurro de la Noche" género="terror">
+    <personajes>
+        <personaje id="p1" tipo="principal">
+            <nombre>Lucía</nombre>
+            <género>F</género>
+            <descripción>Una niña curiosa que oye voces en la oscuridad.</descripción>
+            <descripción_fisica>Cabello oscuro y ojos grandes.</descripción_fisica>
+        </personaje>
+        <personaje id="p2" tipo="secundario">
+            <nombre>Abuela Marta</nombre>
+            <género>F</género>
+            <descripción>Una anciana sabia que conoce los secretos del pueblo.</descripción>
+            <imagen>abuela_marta.jpg</imagen>
+        </personaje>
+    </personajes>
+    <trama>Lucía descubre que las voces que oye en la noche provienen de los espíritus atrapados en su casa.</trama>
+    <etiqueta nombre="misterio"/>
+    <etiqueta nombre="espíritus"/>
+</cuento>

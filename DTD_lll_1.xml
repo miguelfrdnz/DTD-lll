@@ -1,0 +1,21 @@
+<!DOCTYPE cuento SYSTEM "DTD_lll.dtd">
+<cuento cod="A01" título="El Bosque Encantado" género="fantasía">
+    <personajes>
+        <personaje id="p1" tipo="principal">
+            <nombre>Aldric</nombre>
+            <género>M</género>
+            <descripción>Un joven mago en busca de conocimiento.</descripción>
+            <imagen>aldric.png</imagen>
+        </personaje>
+        <personaje id="p2" tipo="antagonista">
+            <nombre>La Sombra</nombre>
+            <género>N</género>
+            <descripción>Una entidad oscura que acecha en la niebla.</descripción>
+            <url>http://historiasdelbosque.com/lasombra</url>
+        </personaje>
+    </personajes>
+    <trama>Aldric debe atravesar un bosque mágico lleno de desafíos y enfrentarse a la Sombra.</trama>
+    <etiqueta nombre="magia"/>
+    <etiqueta nombre="aventura"/>
+    <precio moneda="usd">12.99</precio>
+</cuento>
